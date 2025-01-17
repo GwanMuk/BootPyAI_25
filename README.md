@@ -24,3 +24,6 @@ FastAPI 서버 실행
 mine.py 실행
 Terminal에서 D:\phthonWorkSpace > uvicorn main:app --reload --port8001(위치확인) 
 
+참고 도서
+https://wikidocs.net/book/8531
+
