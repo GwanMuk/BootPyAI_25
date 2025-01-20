@@ -27,3 +27,4 @@ Terminal에서 D:\phthonWorkSpace > uvicorn main:app --reload --port8001(위치�
 참고 도서
 https://wikidocs.net/book/8531
 
+![image](https://github.com/user-attachments/assets/70319d16-45da-4c02-a0d4-169fb4b9e2bd)
