@@ -1,6 +1,8 @@
 # BootPyAI_25
 스프링 부트와 파이썬 ai 협업모듈
 
+![image](https://github.com/user-attachments/assets/c5b04d4b-d7bf-4b08-adb1-b609ba26dc74)
+
 개발환경 교구축
 
 파이썬 인터프린터 : http://www.python.org/ -> 3.12버젼 설치(3.8이상 필수)
@@ -26,4 +28,5 @@ Terminal에서 D:\phthonWorkSpace > uvicorn main:app --reload --port8001(위치�
 
 참고 도서
 https://wikidocs.net/book/8531
+
 
